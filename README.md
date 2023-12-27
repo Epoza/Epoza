@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Epoza
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML, CSS, and Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Epoza, a computer science student
+- 👀 I’m interested in fullstack web development as well as software engineering in general
+- 🌱 I’m currently learning TypeScript and React
+- 🔮 In the future I hope to learn Rust
 
 <!---
 Epoza/Epoza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
